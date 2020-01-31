@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །ཚད་མ་མདོ་དང་སྡེ་བདུན་གྱི་དོན་གཏན་ལ་ཕབ་པའི་བསྟན་བཅོས་རྗེ་བཙུན་འཇམ་པའི་དབྱངས་ཀྱི་དགོངས་རྒྱན་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  sku: KS-PK-02
+  layers:
+  - book_title
+  - author
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: An Ornament to the Wisdom of Manjushri:An Explanation on the Sutra of Valid
+      Cognition and the Seven Treatises on Valid Cognition
+    bo: ཚད་མ་མདོ་དང་སྡེ་བདུན་གྱི་དོན་གཏན་ལ་ཕབ་པའི་བསྟན་བཅོས་རྗེ་བཙུན་འཇམ་པའི་དབྱངས་ཀྱི་དགོངས་རྒྱན་བཞུགས་སོ།
+      །
+  collection:
+    en: Pema Karpo Series–  Book 2
+    bo: ཀུན་མཁྱེན་གཞུང་འགྲེལ།–  དེབ། ༢
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-PK-02
+  category:
+    en: Valid Cognition
+    bo: ཚད་མ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-PK-02.epub
+  description:
+    en: ''
+    bo: ''
