@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000042
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཚད་མ་མདོ་དང་སྡེ་བདུན་གྱི་དོན་གཏན་ལ་ཕབ་པའི་བསྟན་བཅོས་རྗེ་བཙུན་འཇམ་པའི་དབྱངས་ཀྱི་དགོངས་རྒྱན་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-02
   layers:
   - book_title
   - author
   - quotation
   - sabche
+  id: KS-PK-02
 web_metadata:
   title:
     en: An Ornament to the Wisdom of Manjushri:An Explanation on the Sutra of Valid
